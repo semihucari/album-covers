@@ -10,7 +10,7 @@ class HomePage extends Component {
 
             <div>
                 <h1 className="pulsate">
-                    Gizzard & Lizard Wizard
+                    type your song
                 </h1>
                 <Search/>
                 <NameAndCover/>
